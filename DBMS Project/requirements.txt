@@ -1,0 +1,6 @@
+streamlit
+streamlit-option-menu
+deta
+python-dotenv
+pandas
+matplotlib
